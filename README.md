@@ -149,6 +149,7 @@ AWSKRUG에서는 분야별 혹은 지역별로 다양한 소모임을 만들어 
 ## 강남 지역 모임
 
 ### 강남 초급자 모임
+- 3차: [2017년 2월 7일](https://www.meetup.com/ko-KR/awskrug/events/237184794/)
 - 2차: [2017년 1월 11일](https://www.meetup.com/awskrug/events/236720501/)
 - 1차: 2016년 12월 7일
 
